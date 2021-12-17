@@ -36,7 +36,7 @@ public class Fornecedor extends Pessoa {
         Fornecedor ze = new Fornecedor(
                 "AN Consultoria",
                 "Rua Anita Garibaldi 251",
-                "999445522",
+                "988550395",
                 5000,
                 2500);
 
